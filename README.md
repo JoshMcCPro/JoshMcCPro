@@ -7,7 +7,7 @@ Computer Science Student
 * 🌍  I'm based in Indiana
 * 🖥️  See my portfolio at [JoshMcCPro/Resume](http://github.com/JoshMcCPro/Resume)
 * ✉️  You can contact me at [JoshMcCPro@gmail.com](mailto:JoshMcCPro@gmail.com)
-* 🧠  I'm learning Tensorflow
+* 🧠  I'm currently studying on HackerRank
 * 🤝  I'm open to collaborating on innovative projects
 * ⚡  Feel free to reach out if you're interested in connecting, collaborating, or discussing anything.
 
