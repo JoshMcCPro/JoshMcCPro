@@ -5,7 +5,7 @@ Computer Science Student
 ------------------------
 
 * 🌍  I'm based in Indiana
-* 🖥️  See my portfolio at [JoshMcCPro/Resume](http://github.com/JoshMcCPro/Resume)
+* 🖥️  See my portfolio at [JoshMcCPro/Resume](http://github.com/JoshMcCPro/Portfolio)
 * ✉️  You can contact me at [JoshMcCPro@gmail.com](mailto:JoshMcCPro@gmail.com)
 * 🧠  I'm currently studying on HackerRank
 * 🤝  I'm open to collaborating on innovative projects
